@@ -136,12 +136,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: 평온함
+    percent: 50
+  - name: 맛있음
+    percent: 70
+  - name: 졸림
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -175,6 +175,14 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## 나에 대한
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요. 
+저는 장유빈, 21살입니다. 
+현재 전북대학교 컴퓨터인공지능학부 2학년에 재학 중입니다.
+저는 심해 속에서 빛을 내며 사는 바이오루미네선트 해파리 처럼 살고 싶습니다.
+왜냐면
+그냥
+.
+
+
