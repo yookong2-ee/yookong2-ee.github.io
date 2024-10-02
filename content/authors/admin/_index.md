@@ -41,13 +41,13 @@ profiles:
     url: https://www.linkedin.com/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 침착맨
+  - 여행
+  - 철학
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: 컴퓨터인공지능학부
+    institution: 전북대학교
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -55,7 +55,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: 컴퓨터부문  
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -66,7 +66,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: 인공지능
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -78,7 +78,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: 학생회 임원
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -89,7 +89,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: 전북대학교 입학
     company_name: X
     company_url: ''
     company_logo: ''
@@ -142,7 +142,7 @@ languages:
     percent: 75
   - name: Portuguese
     percent: 25
-    
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -154,7 +154,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      뭘 요약해
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
