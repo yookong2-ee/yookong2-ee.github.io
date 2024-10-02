@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 장유빈
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 장유빈
 
 # Full name (for SEO)
 first_name: Shiung Wu
