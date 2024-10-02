@@ -142,19 +142,7 @@ languages:
     percent: 75
   - name: Portuguese
     percent: 25
-
-title: Contact
-
-## 우리 위치
-
-<iframe 
-  src="https://maps.app.goo.gl/gF45wvaS8P2fPxT28" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy"></iframe>
-
+    
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
