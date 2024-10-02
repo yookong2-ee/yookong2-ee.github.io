@@ -36,7 +36,7 @@ header:
     show_theme_chooser: true
     show_language_selector: true
     logo:
-      image: "static/logo.png"
+      image: "images/logo.png"
       text: "NewBeans"
 
 # Site footer
