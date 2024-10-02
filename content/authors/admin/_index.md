@@ -143,9 +143,9 @@ languages:
   - name: Portuguese
     percent: 25
 
-title: "Contact"
+title: Contact
 
-## 내 위치
+## 우리 위치
 
 <iframe 
   src="https://maps.app.goo.gl/gF45wvaS8P2fPxT28" 
