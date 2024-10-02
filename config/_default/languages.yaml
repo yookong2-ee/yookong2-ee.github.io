@@ -1,5 +1,6 @@
 # Languages
 #   Create a section for each of your site's languages.
+defaultContentLanguage: en
 languages:
   # Default language
   en:
