@@ -1,22 +1,66 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+languages:
+  # Default language
+  en:
+    languageCode: en-us
+    contentDir: content/en
+    title: English Site Title
+    params:
+      description: This is the English version of the site.
+    menu:
+      main:
+        - name: Home
+          url: '/'
+          weight: 1
+        - name: About
+          url: '/about'
+          weight: 2
 
-# Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  # 한국어
+  ko:
+    languageCode: ko
+    contentDir: content/ko
+    title: 한국어 사이트 제목
+    params:
+      description: 한국어로 작성된 사이트입니다.
+    menu:
+      main:
+        - name: 홈
+          url: '/'
+          weight: 1
+        - name: 소개
+          url: '/about'
+          weight: 2
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  # 일본어
+  ja:
+    languageCode: ja
+    contentDir: content/ja
+    title: 日本語サイトのタイトル
+    params:
+      description: これは日本語版のサイトです。
+    menu:
+      main:
+        - name: ホーム
+          url: '/'
+          weight: 1
+        - name: 私たちについて
+          url: '/about'
+          weight: 2
+
+  # 중국어 (간체)
+  zh:
+    languageCode: zh-Hans
+    contentDir: content/zh
+    title: 中文网站标题
+    params:
+      description: 这是中文版本的网站。
+    menu:
+      main:
+        - name: 首页
+          url: '/'
+          weight: 1
+        - name: 关于我们
+          url: '/about'
+          weight: 2
