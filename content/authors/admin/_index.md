@@ -6,8 +6,8 @@ title: 장유빈
 name_pronunciation: 장유빈
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu Bin
+last_name: Jang
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Computer Science & Artificial Intelligence Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
