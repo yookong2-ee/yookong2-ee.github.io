@@ -6,19 +6,13 @@
 main:
   - name: Y
     url: /#papers
-    weight: 11
   - name: U
     url: /#talks
-    weight: 12
   - name: B
     url: /#news
-    weight: 13
   - name: I
     url: experience/
-    weight: 20
   - name: N
     url: projects/
-    weight: 30
   - name: Teaching
     url: teaching/
-    weight: 40
