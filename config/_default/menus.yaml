@@ -5,21 +5,18 @@
 
 main:
   - name: Y
-    url: /
-    weight: 10
-  - name: U
     url: /#papers
     weight: 11
-  - name: B
+  - name: U
     url: /#talks
     weight: 12
-  - name: I
+  - name: B
     url: /#news
     weight: 13
-  - name: N
+  - name: I
     url: experience/
     weight: 20
-  - name: Projects
+  - name: N
     url: projects/
     weight: 30
   - name: Teaching
