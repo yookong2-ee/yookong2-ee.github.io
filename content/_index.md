@@ -9,13 +9,28 @@ design:
   spacing: "6rem"
 
 sections:
-- block: features
+  - block: resume-biography-3
     content:
-      title: <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
-      text: <br><span style="font-size:125%">전북대학교 의료 AI 및 계산 과학 연구실 홈페이지에 오신 것을 환영합니다.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
-
-
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: yubin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: my resume
+        url: uploads/resume.pdf
+    design:
+      css_class: yellow
+      background:
+        color: yellow
+        #image:
+          # Add your image background to `assets/media/`.
+          #filename: 
+          #filters:
+            #brightness: 
+          #size: 
+          #position: 
+          #parallax:
+          
   - block: slider
     content:
       slides:
@@ -80,37 +95,6 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
-      slide_width: '100px'
-      is_fullscreen: false
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: yubin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: my resume
-        url: uploads/resume.pdf
-    design:
-      css_class: yellow
-      background:
-        color: yellow
-        #image:
-          # Add your image background to `assets/media/`.
-          #filename: 
-          #filters:
-            #brightness: 
-          #size: 
-          #position: 
-          #parallax:
           
   - block: markdown
     content:
