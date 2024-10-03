@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: yellow
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -32,20 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '안녕 날 소개하지'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+       응 안해 😃
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Y(와이라노)
       filters:
         folders:
           - publication
@@ -120,6 +116,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
+        css_class: "bg-yellow-200"
         css_style: ""
 ---
