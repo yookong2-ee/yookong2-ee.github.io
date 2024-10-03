@@ -2,9 +2,6 @@
 # Display name
 title: 장유빈
 
-# Name pronunciation (optional)
-name_pronunciation: 장유빈
-
 # Full name (for SEO)
 first_name: Yu Bin
 last_name: Jang
@@ -36,14 +33,12 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/_yookong2/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/yookong2-ee
 
 interests:
-  - 침착맨
-  - 여행
-  - 철학
+  - 도파민
+  - 자아성찰
+  - 맛있는 음식
 
 education:
   - area: 컴퓨터인공지능학부
