@@ -23,13 +23,13 @@ sections:
       background:
         color: yellow
         image:
-           Add your image background to `assets/media/`.
-          filename: 
-          filters:
-            brightness: 
-          size: 
-          position: 
-          parallax:
+          # Add your image background to `assets/media/`.
+          #filename: 
+          #filters:
+           #brightness: 
+          #size: 
+         # position: 
+          #parallax:
           
   - block: markdown
     content:
