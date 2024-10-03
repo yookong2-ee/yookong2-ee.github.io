@@ -26,7 +26,17 @@ marketing:
     google: ''
     baidu: ''
 
-
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    show_language_selector: true
+    logo:
+      avatar : assets/icons/고양이.png
 
 # Site footer
 footer:
