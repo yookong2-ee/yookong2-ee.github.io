@@ -11,25 +11,92 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: yubin
+    # Display name
+      title: 장유빈
+
+    # Full name (for SEO)
+      first_name: Yu Bin
+      last_name: Jang
+
+    # Status emoji
+      status:
+      icon: ☕️
+
+    # Is this the primary user of the site?
+      superuser: true
+
+    # Highlight the author in author lists? (true/false)
+      highlight_name: true
+
+    # Role/position/tagline
+      role: Computer Science & Artificial Intelligence Student
+
+    # Organizations/Affiliations to display in Biography blox
+      organizations:
+      - name: my hometown
+        url: https://csai.jbnu.ac.kr/csai/index.do
+
+    # Social network links
+    # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+      profiles:
+      - icon: at-symbol
+        url: 'mailto:jybjyb2673@naver.com'
+      label: E-mail Me
+      - icon: brands/instagram
+        url: https://www.instagram.com/_yookong2/
+      - icon: brands/github
+        url: https://github.com/yookong2-ee
+
+      interests:
+      - 도파민
+      - 자아성찰
+      - 맛있는 음식
+
+education:
+  - area: 컴퓨터인공지능학부
+    institution: 전북대학교
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: 컴퓨터부문  
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: 인공지능
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+    
+    # Choose a user profile to display (a folder name within `content/authors/`)
+      username: jangyubin
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: my resume
+        text: resume
         url: uploads/resume.pdf
     design:
       css_class: yellow
       background:
         color: yellow
-        image:
-          # Add your image background to `assets/media/`.
-          filename: cat.png
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
           
   - block: markdown
     content:
