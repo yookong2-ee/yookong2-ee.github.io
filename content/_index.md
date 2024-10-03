@@ -6,22 +6,30 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "5rem"
 
 sections:
   - block: resume-biography-3
-
-    # Choose a user profile to display (a folder name within `content/authors/`)
-      username: Jang Yubin
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: yubin
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: resume
+        text: my resume
         url: uploads/resume.pdf
     design:
       css_class: yellow
       background:
         color: yellow
+        image:
+          # Add your image background to `assets/media/`.
+          filename: cat.png
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
           
   - block: markdown
     content:
