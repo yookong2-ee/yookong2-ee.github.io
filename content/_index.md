@@ -1,41 +1,41 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-9-20
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "10rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography-5
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: my resume
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: yellow
       background:
         color: yellow
-        image:
+        #image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+          #filename: 
+          #filters:
+            #brightness: 
+          #size: 
+          #position: 
+          #parallax: 
   - block: markdown
     content:
       title: '안녕 날 소개하지'
       subtitle: ''
-      text: |-
-       응 안해 😃
+      text: 
+       😃
     design:
       columns: '1'
   - block: collection
@@ -116,6 +116,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-yellow-200"
+        css_class: "bg-blue-200"
         css_style: ""
 ---
