@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "5rem"
 
 sections:
   - block: resume-biography-3
@@ -22,14 +22,14 @@ sections:
       css_class: yellow
       background:
         color: yellow
-        #image:
-          # Add your image background to `assets/media/`.
-          #filename: 
-          #filters:
-            #brightness: 
-          #size: 
-          #position: 
-          #parallax:
+        image:
+           Add your image background to `assets/media/`.
+          filename: 
+          filters:
+            brightness: 
+          size: 
+          position: 
+          parallax:
           
   - block: markdown
     content:
