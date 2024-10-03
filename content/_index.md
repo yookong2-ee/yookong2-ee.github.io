@@ -6,13 +6,13 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "10rem"
+  spacing: "6rem"
 
 sections:
-  - block: resume-biography-5
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: yubin
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
