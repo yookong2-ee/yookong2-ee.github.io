@@ -1,0 +1,10 @@
+<div class="slider">
+    <div class="slides">
+        {{ range .Params.slides }}
+            <div class="slide">
+                <img src="{{ .image }}" alt="{{ .title }}">
+                <div class="caption">{{ .caption }}</div>
+            </div>
+        {{ end }}
+    </div>
+</div>

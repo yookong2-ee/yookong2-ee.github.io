@@ -94,8 +94,8 @@ sections:
             filters:
               brightness: 0.4
           position: center
-          color: '#000'
-          
+          color: '#000' 
+
   - block: markdown
     content:
       title: '안녕 날 소개하지'
