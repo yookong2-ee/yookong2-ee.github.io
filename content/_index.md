@@ -8,26 +8,6 @@ design:
   # Default section spacing
   spacing: "6rem"
 
-# Display name
-title: 장유빈
-
-# Full name (for SEO)
-first_name: Yu Bin
-last_name: Jang
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
-role: Computer Science & Artificial Intelligence Student
-
 sections:
   - block: resume-biography-3
 
