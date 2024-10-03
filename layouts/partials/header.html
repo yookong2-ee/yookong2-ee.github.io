@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div>
+                <h1>{{ .Site.Title }}</h1>
+                <div class="language-selector">
+                    <img src="/assets/media/icons/지구본.png" alt="Languages" class="language-icon" />
+                    <select onchange="location = this.value;">
+                        {{ range .Site.Languages }}
+                            <option value="{{ .Lang }}">{{ .Name }}</option>
+                        {{ end }}
+                    </select>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+</html>
+
