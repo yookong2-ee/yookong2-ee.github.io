@@ -22,14 +22,14 @@ sections:
       css_class: yellow
       background:
         color: yellow
-        #image:
+        image:
           # Add your image background to `assets/media/`.
-          #filename: 
-          #filters:
-           #brightness: 
-          #size: 
-         # position: 
-          #parallax:
+          filename: cat.png
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
           
   - block: markdown
     content:
