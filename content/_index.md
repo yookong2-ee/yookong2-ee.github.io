@@ -22,7 +22,7 @@ sections:
       css_class: yellow
       background:
         color: yellow
-        image:
+        #image:
           # Add your image background to `assets/media/`.
           #filename: 
           #filters:
