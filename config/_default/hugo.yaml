@@ -12,7 +12,7 @@ baseURL: 'https://www.youtube.com/@ChimChakMan_Official'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
