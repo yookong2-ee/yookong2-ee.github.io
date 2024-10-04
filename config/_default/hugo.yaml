@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yubin's World # Website name
+title: NewBeans # Website name
 baseURL: 'https://jyb.labs.or.kr/' # Website URL
 
 ############################
