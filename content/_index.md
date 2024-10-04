@@ -8,9 +8,10 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab </span>
-      text: <span style="font-size:110%">전북대학교 의료 AI 및 계산 수학 연구실 홈페이지에 오신 것을 환영합니다.</span>
-
+      image:
+      filename: media/face.jpg
+      title: <span style="font-size:75%">장유빈</span>
+      text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
   - block: slider
     content:
       slides:
@@ -89,7 +90,7 @@ sections:
           icon: bolt
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
         - name: Easy
-          icon: medical.svg
+          icon: rabbit.svg
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
         - name: No-Code
           icon: code-bracket
