@@ -9,16 +9,13 @@ sections:
   - block: features
     content:
       image:
-      filename: media/face.jpg
+        filename: media/face.jpg
       title: <span style="font-size:75%">장유빈</span>
       text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
       social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+      - icon: envelope
+        icon_pack: fas
+        link: 'mailto:test@example.org'
 
   - block: slider
     content:
