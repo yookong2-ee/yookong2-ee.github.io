@@ -10,6 +10,16 @@ sections:
     content:
       title: <span style="font-size:75%">장유빈</span>
       text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
+      items:
+        - name: ''
+          icon: magnifying-glass
+          url: https://www.instagram.com/
+        - name: ''
+          icon: bolt
+          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
+        - name: ''
+          icon: star
+          description: Rated 5-stars by the community.
 
   - block: slider
     content:
@@ -79,27 +89,8 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">Lab's Interests</span>
-      text: 저희 연구실에서는 다음과 같은 연구/개발 분야에 관심을 갖고 있습니다.<br><br><br><br>
-      items:
-        - name: AI
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: rabbit.svg
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+      title: <span style="font-size:75%">나의 소개</span>
+      text: 안녕하세요 저는 전북대학교 컴퓨터인공지능학부 2학년에 재학 중인 장유빈이라고 합니다. 저는 2004년 6월 26일 생이고 원숭이 띠입니다. 저의 멋진 사이트에 방문해 주셔서 감사드립니다.<br><br><br><br>
 
 
   - block: collection
