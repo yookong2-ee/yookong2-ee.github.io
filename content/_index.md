@@ -9,9 +9,7 @@ sections:
   - block: features
     content:
       image:
-        filename: media/face.jpg
-        alt: '장유빈의 얼굴 사진'
-        style: 'width: 150px; height: auto; display: block; margin: 0 auto;
+        filename: face.jpg
       title: <span style="font-size:75%">장유빈</span>
       text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
       social:
