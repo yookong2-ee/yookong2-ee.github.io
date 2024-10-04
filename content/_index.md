@@ -8,9 +8,13 @@ sections:
 
   - block: features
     content:
+
+    image:
+      filename: face.jpg
+
       title: <span style="font-size:75%">장유빈</span>
       text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
-      text: <span style="font-size:110%"> ✆ 010.3878.2673 </span>
+      text: <span style="font-size:200%"> ✆ 010.3878.2673 </span>
 
   - block: slider
     content:
