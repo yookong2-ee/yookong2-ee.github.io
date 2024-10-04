@@ -8,6 +8,12 @@ sections:
 
   - block: features
     content:
+      title: <span style="font-size:75%">장유빈</span>
+      text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
+      image: 
+      src: 'media/face.jpg' 
+      alt: "장유빈의 사진"
+      style: 'width: 100%; height: auto;'  # 이미지 스타일 조정
       items:
         - name: ''
           icon: face.jpg
@@ -18,8 +24,6 @@ sections:
         - name: ''
           icon: star
           description: Rated 5-stars by the community.
-      title: <span style="font-size:75%">장유빈</span>
-      text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
 
   - block: slider
     content:
