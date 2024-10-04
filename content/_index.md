@@ -12,15 +12,14 @@ sections:
     image:
       filename: face.jpg
 
-      title: <span style="font-size:75%">장유빈</span>
-      text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
-      text: <span style="font-size:200%"> ✆ 010.3878.2673 </span>
+      title: <span style="font-size:75%">장유빈 [전북대학교 공과대학 컴퓨터인공지능학부]</span>
+      text: <span style="font-size:110%">✆ 010.3878.2673</span>
 
   - block: slider
     content:
       slides:
-      - title: AI
-        content: 'Just opened last month!'
+      - title: 경력
+        content: 있나
         align: center
         background:
           image:
@@ -29,8 +28,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Medical AI
-        content: Take a look at what we're working on...
+      - title: 생활
+        content: 반복적이고 강조된 삶
         align: center
         background:
           image:
@@ -39,8 +38,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Development
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 취미
+        content: 갓생러가되(아님)
         align: center
         background:
           image:
@@ -49,8 +48,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Mathematics
-        content: 'Just opened last month!'
+      - title: 관심사
+        content: you
         align: center
         background:
           image:
