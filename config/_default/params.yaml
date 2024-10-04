@@ -16,7 +16,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'MacsLAB'
+    org_name: 'NewBeans'
     description: 'MacsLAB in Jeonbuk National Univ.'
     twitter: 'GetResearchDev'
   analytics:
@@ -39,8 +39,6 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-    logo:
-      text: "NewBeans"
 
 # Site footer
 
