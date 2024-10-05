@@ -14,11 +14,11 @@ main:
   - name: Favorites
     url: people
     weight: 200
-  - parent: People
+  - parent: Me
     name: my profile
     url: /author/이경수/
     weight: 210
-  - parent: People
+  - parent: Me
     name: my friends
     url: people
     weight: 220
