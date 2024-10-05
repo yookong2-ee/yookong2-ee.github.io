@@ -13,10 +13,10 @@ main:
 
   - parent: Me
     name: my profile
-    url: about
+    url: me
     weight: 210
   - parent: Me
-    name: my friends
+    name: my information
     url: me
     weight: 220
 
