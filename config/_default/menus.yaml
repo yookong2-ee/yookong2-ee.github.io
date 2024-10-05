@@ -17,7 +17,7 @@ main:
     weight: 210
   - parent: Me
     name: my information
-    url: people
+    url: inform
     weight: 220
 
   - parent: Favorites
