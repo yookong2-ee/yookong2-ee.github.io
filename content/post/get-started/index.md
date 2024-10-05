@@ -1,5 +1,5 @@
 ---
-title: Click me!  
+title: 음 
 date: 2024-9-9
 
 # Featured image
@@ -9,10 +9,6 @@ image:
 
 authors:
   - Yubin
-
-tags:
-  - nothing
----
 
 Welcome 👋
 

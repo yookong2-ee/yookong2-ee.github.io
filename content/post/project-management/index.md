@@ -1,5 +1,5 @@
 ---
-title: ✅ Manage your projects
+title: 이것도 수정
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 date: 2023-10-23
 authors:
