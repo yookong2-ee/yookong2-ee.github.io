@@ -1,15 +1,15 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2024-03-25
+title: Jangyubin's World
+date: 2024-10-5
 type: landing
 
 sections:
-
   - block: features
     content:
-      title: <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab </span>
-      text: <span style="font-size:110%">전북대학교 의료 AI 및 계산 수학 연구실 홈페이지에 오신 것을 환영합니다.</span>
+      title: <span style="font-size:75%">장유빈</span>
+      text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
+
 
   - block: slider
     content:
@@ -24,8 +24,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: 귀여운 거 최고
-        content: 
+      - title: Medical AI
+        content: Take a look at what we're working on...
         align: center
         background:
           image:
@@ -64,42 +64,13 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 3000
 
-  # - block: hero
-  #   content:
-  #     title: |
-  #       <span style="font-size:75%">Medical AI & Computational Science (MACS) Lab</span>
-  #     image:
-  #       filename: welcome.jpg
-  #     text: |
-  #       <br>
-        
-  #       <span style="font-size:75%">전북대학교 의료 AI 및 계산 수학 연구실 (MACS Lab) 홈페이지에 오신 것을 환영합니다. MACS에서는 의료, 항공, 국방 분야에 AI 및 딥러닝을 활용한 연구를 수행하고 있으며, 의료 수학 및 AI 기반 연구도 함께 수행하고 있습니다. 뿐만 아니라, 풀스택 개발 및 AI를 활용한 어플리케이션 개발 등 Development & Deploy하는 실용적인 분야에도 집중하고 있습니다.</span>
   
 
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">Lab's Interests</span>
-      text: 저희 연구실에서는 다음과 같은 연구/개발 분야에 관심을 갖고 있습니다.<br><br><br><br>
-      items:
-        - name: AI
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: medical.svg
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+      title: <span style="font-size:75%">나의 소개</span>
+      text: 안녕하세요.                                                                       저는 전북대학교 컴퓨터인공지능학부 2학년에 재학 중인 장유빈이라고 합니다.                    저는 2004년 6월 26일 생이고 원숭이 띠입니다.                                              저의 멋진 사이트에 방문해 주셔서 감사드립니다.                                               저에 대해 더 자세한 정보를 원하신다면                                                       ✆ 010.3878.2673으로 전화주세요.<br><br><br><br>
 
 
   - block: collection
@@ -147,7 +118,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Click me! →" %}}
+        {{% cta cta_link="./people/" cta_text="click me! →" %}}
     design:
       columns: '1'
 ---
