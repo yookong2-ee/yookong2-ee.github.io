@@ -18,7 +18,7 @@ main:
   - parent: Me
     name: my information
     url: event
-    weight: 220
+    weight: 630
 
   - parent: Favorites
     name: Food
