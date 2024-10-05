@@ -1,40 +1,50 @@
 ---
-title: 🧠 TMI 대방출
-summary: 나에 대해 알고 싶구나.
-date: 2024-10-06
+title: 음 
+date: 2024-9-9
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+
 authors:
   - admin
-image:
-  url: "/assets/images/featured.jpg"  # 이미지 경로
-  caption: '사진 출처: [**Unsplash**](https://unsplash.com)'  # 이미지 캡션 및 링크
 
+tags:
+  - nothing
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+Welcome 👋
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+{{< toc mobile_only=true is_open=true >}}
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+## Overview
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+어쩌고 저쩌고
 
-## Mindmaps
+[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-Hugo Blox supports a Markdown extension for mindmaps.
+### Get Started
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+- 👉 
+- 📚
+- 💬 
+- 🐦  
+- 💡 
+- ## > ⬆️ 
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+### [❤️❤️](https://www.youtube.com/@bdns)
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+ **unlock [여기를 누르세요](https://www.youtube.com/@bdns) 🦄✨**
 
+## Features
 
-## Highlighting
+- **진한 글씨** - [**진하기 + 누르기**](https://hugoblox.com/blocks/)
 
-<mark>Highlight</mark> important text with `mark`:
+## Themes
 
-```html
-<mark>Highlighted text</mark>
-```
+[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
 
-## Did you find this page helpful? Consider sharing it 🙌
+## License
+
+저작권
