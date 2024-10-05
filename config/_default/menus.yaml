@@ -17,7 +17,7 @@ main:
     weight: 210
   - parent: Me
     name: my information
-    url: inform
+    url: event
     weight: 220
 
   - parent: Favorites
