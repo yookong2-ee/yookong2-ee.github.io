@@ -5,7 +5,6 @@ date: 2024-10-5
 type: landing
 
 sections:
-
   - block: features
     content:
       title: <span style="font-size:75%">장유빈</span>
@@ -13,14 +12,14 @@ sections:
       button:
         text: Download
         url: uploads/resume.pdf
-      image: 
-      src: 'assets/media/face.jpg' 
-      alt: ''
-      style: 'width: 100%; height: auto;'
+      image:
+        src: 'assets/media/face.jpg'  
+        alt: '장유빈 사진'  
+        style: 'width: 100%; height: auto;'  
       links:
       - icon: twitter
-      url: https://twitter.com/georgecushen
- 
+        url: https://twitter.com/georgecushen
+
 
   - block: slider
     content:
