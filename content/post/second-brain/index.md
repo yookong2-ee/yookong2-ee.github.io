@@ -1,14 +1,13 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🧠 TMI 대방출
+summary: 나에 대해 알고 싶구나.
+date: 2024-10-06
 authors:
   - admin
-tags:
-  - Second Brain
-  - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  url: "/assets/images/featured.jpg"  # 이미지 경로
+  caption: '사진 출처: [**Unsplash**](https://unsplash.com)'  # 이미지 캡션 및 링크
+
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
