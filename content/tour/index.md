@@ -1,57 +1,50 @@
 ---
-title: Tour
-date: 2022-10-24
+title: 음 
+date: 2024-9-9
 
-type: landing
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-sections:
-  - block: slider
-    content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+authors:
+  - admin
 
+tags:
+  - nothing
 ---
 
-## Did you find this page helpful? Consider sharing it 🙌
+Welcome 👋
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Overview
+
+어쩌고 저쩌고
+
+[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+
+### Get Started
+
+- 👉 
+- 📚
+- 💬 
+- 🐦  
+- 💡 
+- ## > ⬆️ 
+
+### [❤️❤️](https://www.youtube.com/@bdns)
+
+ **unlock [여기를 누르세요](https://www.youtube.com/@bdns) 🦄✨**
+
+## Features
+
+- **진한 글씨** - [**진하기 + 누르기**](https://hugoblox.com/blocks/)
+
+## Themes
+
+[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
+
+## License
+
+저작권
