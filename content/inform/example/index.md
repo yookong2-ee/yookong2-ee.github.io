@@ -1,11 +1,7 @@
 ---
 title: 나에 대한 TMI
 
-
-
-summary: 그냥 저냥 나에 대한 
-abstract: 고향 : 전주 / mbti : INTJ or INFJ / 
-
+summary: 그냥 저냥 나에 대한
 
 authors:
   - admin
