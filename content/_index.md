@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2024-03-25
+title: Jangyubin's World
+date: 2024-10-5
 type: landing
 
 sections:
@@ -11,7 +11,7 @@ sections:
       title: <span style="font-size:75%">장유빈</span>
       text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
       button:
-        text: Download CV
+        text: Download
         url: uploads/resume.pdf
       image: 
       src: 'assets/media/face.jpg' 
@@ -19,8 +19,6 @@ sections:
       style: 'width: 100%; height: auto;'
       links:
       - icon: twitter
-      icon_pack: fab
-      name: Follow
       url: https://twitter.com/georgecushen
  
 
