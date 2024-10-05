@@ -13,7 +13,7 @@ sections:
         text: Download
         url: uploads/resume.pdf
       image:
-        src: 'assets/media/face.jpg'  
+        src: 'assets/media/avatar.jpg'  
         alt: '장유빈 사진'  
         style: 'width: 100%; height: auto;'  
       links:
