@@ -13,11 +13,11 @@ main:
 
   - parent: Me
     name: my profile
-    url: /author/이경수/
+    url: people
     weight: 210
   - parent: Me
     name: my friends
-    url: people
+    url: news
     weight: 220
 
   - parent: Favorites
@@ -47,7 +47,7 @@ main:
     url: post
     weight: 620
   - parent: Hobbies
-    name: Etc
+    name: etc
     url: event
     weight: 630
 
