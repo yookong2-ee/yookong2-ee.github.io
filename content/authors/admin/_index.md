@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 장유빈
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: YuBin
+last_name: Jang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 전북대학교 컴퓨터인공지능학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Jeonbuk National University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:jybjyb2673@naver.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -71,7 +71,3 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
