@@ -17,7 +17,7 @@ main:
     weight: 210
   - parent: Me
     name: my information
-    url: inform
+    url: tour
     weight: 630
 
   - parent: Favorites
@@ -40,7 +40,7 @@ main:
 
   - parent: Hobbies
     name: Exercise
-    url: notification
+    url: preprint
     weight: 610
   - parent: Hobbies
     name: Play
