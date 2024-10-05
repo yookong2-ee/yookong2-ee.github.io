@@ -3,7 +3,8 @@
 title: 장유빈
 
 # Full Name (for SEO)
-first_name: 장유빈
+first_name: YuBin
+last_name: Jang
 
 # Is this the primary user of the site?
 superuser: true
