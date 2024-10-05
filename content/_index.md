@@ -13,7 +13,19 @@ sections:
       image: 
       src: 'assets/media/face.jpg' 
       alt: ''
-      style: 'width: 100%; height: auto;' 
+      style: 'width: 100%; height: auto;'
+      links:
+      - icon: twitter
+      icon_pack: fab
+      name: Follow
+      url: https://twitter.com/georgecushen
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
  
 
   - block: slider

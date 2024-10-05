@@ -11,9 +11,6 @@ main:
     url: about
     weight: 100
 
-  - name: Favorites
-    url: people
-    weight: 200
   - parent: Me
     name: my profile
     url: /author/이경수/
@@ -23,15 +20,12 @@ main:
     url: people
     weight: 220
 
-  - name: Travel
-    url: publication
-    weight: 300
-  - parent: Research
-    name: Recommend
+  - parent: Favorites
+    name: Food
     url: publication
     weight: 310
-  - parent: Research
-    name: Etc
+  - parent: Favorites
+    name: Youtuber
     url: field
     weight: 320
 
@@ -44,19 +38,16 @@ main:
   #   url: publication
   #   weight: 500
 
-  - name: 
-    url: post
-    weight: 600
-  - parent: Inform
-    name: Notifications
+  - parent: Hobbies
+    name: Exercise
     url: notification
     weight: 610
-  - parent: Inform
-    name: News
+  - parent: Hobbies
+    name: Play
     url: post
     weight: 620
-  - parent: Inform
-    name: Event
+  - parent: Hobbies
+    name: Etc
     url: event
     weight: 630
 
