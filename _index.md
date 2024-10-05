@@ -25,8 +25,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Medical AI
-        content: Take a look at what we're working on...
+      - title: 하이.
+        content: 안녕하세요.
         align: center
         background:
           image:
