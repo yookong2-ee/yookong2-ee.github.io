@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.jbnu.ac.kr/kor/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 아고.멋헌다고. 여길 지.발로 찾아왓.ㅅ당가 참 특이.허내 .
 
 interests:
   - 인생을 사는 방법

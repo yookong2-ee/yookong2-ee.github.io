@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: features
     content:
-      title: <span style="font-size:75%">장유빈</span>
-      text: <span style="font-size:110%">전북대학교 공과대학 컴퓨터인공지능학부</span>
+      title: <span style="font-size:75%"> 🟡Welcome to the show!🟡</span>
+      text: <span style="font-size:110%"> 어서오십시오. 이곳은 당신이 상상한 대로 흘러가지 않는 세상입니다.🧙 </span>
 
 
   - block: slider
