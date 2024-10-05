@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-관심사:
+interests:
   - 인생을 사는 방법
   - 귀여운 거
   - 맛있는 음식
