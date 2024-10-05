@@ -24,8 +24,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Medical AI
-        content: Take a look at what we're working on...
+      - title: 귀여운 거 최고
+        content: 
         align: center
         background:
           image:
@@ -147,7 +147,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Click me! →" %}}
     design:
       columns: '1'
 ---
