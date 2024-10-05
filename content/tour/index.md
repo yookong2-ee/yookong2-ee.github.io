@@ -1,50 +1,47 @@
 ---
-title: 음 
-date: 2024-9-9
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+title: TMI 알려드립니다.
 
 authors:
   - admin
 
-tags:
-  - nothing
 ---
-
-Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+## 나의 화려한 경력 근데 이제 물음표를 곁들인
 
-어쩌고 저쩌고
+ **2023년** 
+- 전북대 컴퓨터인공지능학부 입학
+- 과 동아리 알프스 입단
+- 컴퓨터 과학과 코딩에서 게임 만들기 팀 프로젝트 수행
+- 중앙 봉사 동아리 발루띠어 입단
+- 공차 전북대점 입사
+- 코딩 교육 이수
+- 제 1대 학생회 홍보국 부원
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+ **2024년**
+ - 제 2대 학생회 홍보국 부원
+ - 웹페이지 만들기 수행
+ - 수강신청 장바구니 올클
+ - 새캠 참여
+ 
+## MBTI
+- intj/infj 반반 나오는 사람
 
-### Get Started
+## 원하는 미래
+- 안분지족하는 삶
 
-- 👉 
-- 📚
-- 💬 
-- 🐦  
-- 💡 
-- ## > ⬆️ 
+## 이상형
+# (https://www.instagram.com/dntlrdl/?hl=ko)
 
-### [❤️❤️](https://www.youtube.com/@bdns)
+## 24시간을 함께 하는 유튜버
+# [이병이병건] (https://www.youtube.com/@ChimChakMan_Official)
 
- **unlock [여기를 누르세요](https://www.youtube.com/@bdns) 🦄✨**
+## 좌우명
+# 어느 쪽이 후회가 덜 남을 선택인가 
 
-## Features
+## 습관&버릇
+# 지나가는 강아지나 아기 눈 앞에서 사라질 때까지 쳐다보기
+# 밥 위에 반찬 흔적 안 묻게 먹기
+# 자기 전에 침착맨 영상 틀기
 
-- **진한 글씨** - [**진하기 + 누르기**](https://hugoblox.com/blocks/)
-
-## Themes
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-저작권

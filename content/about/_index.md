@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Jangyubin's World
-date: 2024-10-5
+title: ''
 type: landing
 
 sections:
   - block: features
     content:
-      title: <span style="font-size:75%"> 🟡Welcome to the show!🟡</span>
-      text: <span style="font-size:110%"> 어서오십시오. 이곳은 당신이 상상한 대로 흘러가지 않는 세상입니다.🧙 </span>
+      title: <span style="font-size:75%">🟡Welcome to the Show!🟡</span>
+      text: <span style="font-size:110%"> 어서오십시오. 이곳에서의 시간은 당신의 예상과 달리 흘러갑니다.🧙 </span>
 
 
   - block: slider
     content:
       slides:
-      - title: AI
-        content: 'Just opened last month!'
+      - title: 힐링
+        content: 은 유튜브 보면서 맛있는 거 먹기가 최고.
         align: center
         background:
           image:
@@ -24,8 +23,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Medical AI
-        content: Take a look at what we're working on...
+      - title: 귀여운 거 좋아해요?
+        content: ㄴ네
         align: center
         background:
           image:
@@ -34,8 +33,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Development
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 주로 공부하는 분야는?
+        content: 컴퓨터.입니다.
         align: center
         background:
           image:
@@ -44,12 +43,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Mathematics
-        content: 'Just opened last month!'
+      - title: 최근 관심사?
+        content: 날씨요. 더운데 추워. 추운데 더워.
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: recruitment.jpg
             filters:
               brightness: 0.5
           position: center
@@ -63,19 +62,11 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 3000
-
   
-
-  - block: features
-    id: features
-    content:
-      title: <span style="font-size:75%">나의 소개</span>
-      text: 안녕하세요.                                                                       저는 전북대학교 컴퓨터인공지능학부 2학년에 재학 중인 장유빈이라고 합니다.                    저는 2004년 6월 26일 생이고 원숭이 띠입니다.                                              저의 멋진 사이트에 방문해 주셔서 감사드립니다.                                               저에 대해 더 자세한 정보를 원하신다면                                                       ✆ 010.3878.2673으로 전화주세요.<br><br><br><br>
-
 
   - block: collection
     content:
-      title: Notifications & News
+      title: 너에 대해 알려줘
       subtitle:
       text:
       count: 2
@@ -94,7 +85,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publications
+      title: 더더
       subtitle:
       text:
       count: 4
