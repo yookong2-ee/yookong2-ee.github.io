@@ -1,11 +1,11 @@
 ---
-title: People
+title: Me
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: people
+  - block: me
     content:
       title: 나야, 장유빈
       # Choose which groups/teams of users to display.
@@ -24,4 +24,5 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      author: admin
 ---
