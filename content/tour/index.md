@@ -4,6 +4,7 @@ title: TMI 알려드립니다.
 authors:
   - admin
 
+url_pdf: 
 ---
 
 
@@ -44,7 +45,7 @@ authors:
 
 
 ## 24시간을 함께 하는 유튜버
-- [이병이병건] (https://www.youtube.com/@ChimChakMan_Official)
+- [**이병이병건**](https://www.youtube.com/@ChimChakMan_Official)
 
 
 
@@ -62,4 +63,5 @@ authors:
 
 ## 공차 메뉴 추천
 - 고구마 밀크티랑 피스타치오 밀크티 추천드릴게요 초코 바른 스무디 메뉴도 아주 잘 나가요! 근데 아메리카노 시켜주셨으면 좋겠어요.
+
 
