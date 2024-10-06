@@ -2,7 +2,7 @@
 title: Notifications
 
 # Listing view
-view: themes/custom_card
+view: customs/custom_card
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
