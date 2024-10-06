@@ -1,7 +1,6 @@
 ---
 title: '미피'
 
-publication_types: ['paper-conference']
 
 url_pdf: ''
 
