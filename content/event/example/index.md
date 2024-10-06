@@ -8,7 +8,6 @@ abstract: 2024년도 얼마 남지 않았습니다. 매년 다가오는 크리�
 authors:
   - admin
 
-tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -16,9 +15,4 @@ featured: false
 image:
   focal_point: Right
 
-
-slides: ""
-
-projects:
-  - example
 ---
