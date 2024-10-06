@@ -1,6 +1,5 @@
 ---
-title: 그냥
-cms_exclude: true
+title: 브이
 #url: talk
 
 # View
