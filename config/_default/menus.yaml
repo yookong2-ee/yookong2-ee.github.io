@@ -39,10 +39,6 @@ main:
   #   weight: 500
 
   - parent: Hobbies
-    name: Exercise
-    url: preprint
-    weight: 610
-  - parent: Hobbies
     name: Play
     url: post
     weight: 620
