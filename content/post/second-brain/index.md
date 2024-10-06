@@ -1,50 +1,17 @@
 ---
-title: 음 
-date: 2024-9-9
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+title: 뉴스
+summary: 뜨거운
+date: 2024-10-06
+authors:
+  - admin
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-authors:
-  - admin
-
-tags:
-  - nothing
 ---
 
-Welcome 👋
 
-{{< toc mobile_only=true is_open=true >}}
+## 최근 소식들은 여기로
+-(https://www.youtube.com/results?search_query=%EB%89%B4%EC%8A%A4)
 
-## Overview
+- 뉴스에는 안 좋은 소식들이 많은 것 같다. 우리가 사는 세상에는 좋은 것만 가득했으면 좋겠지만 당연히 그럴 순 없다. 그럼에도 불구하고 좋은 일만 일어나길 바라는 게 인간의 본능인 듯하다.
 
-어쩌고 저쩌고
-
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
-
-### Get Started
-
-- 👉 
-- 📚
-- 💬 
-- 🐦  
-- 💡 
-- ## > ⬆️ 
-
-### [❤️❤️](https://www.youtube.com/@bdns)
-
- **unlock [여기를 누르세요](https://www.youtube.com/@bdns) 🦄✨**
-
-## Features
-
-- **진한 글씨** - [**진하기 + 누르기**](https://hugoblox.com/blocks/)
-
-## Themes
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-저작권
