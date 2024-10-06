@@ -1,9 +1,8 @@
 ---
-title: Publications
-cms_exclude: true
+title: 미피
 
 # View.
-view: citation
+view: card
 
 # Optional header image (relative to `static/media/` folder).
 banner:

@@ -21,13 +21,9 @@ main:
     weight: 630
 
   - parent: Favorites
-    name: Food
+    name: 미피
     url: publication
     weight: 310
-  - parent: Favorites
-    name: Youtuber
-    url: field
-    weight: 320
 
   # - name: Projects
   #   url: project
@@ -38,12 +34,12 @@ main:
   #   url: publication
   #   weight: 500
 
-  - parent: Hobbies
-    name: Play
+  - parent: More
+    name: 추천
     url: post
     weight: 620
-  - parent: Hobbies
-    name: etc
+  - parent: 여러 가지
+    name: 소식
     url: event
     weight: 630
 

@@ -1,11 +1,13 @@
 ---
-title: Notifications
+title: Recent & Upcoming Talks
+cms_exclude: true
+#url: talk
 
-# Listing view
-view: community/custom_card
+# View
+view: card
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
+# Optional cover image (relative to `assets/media/` folder).
+image:
   caption: ''
-  image: 'recruitment.jpg'
+  filename: ''
 ---
